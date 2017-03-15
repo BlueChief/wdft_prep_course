@@ -1,0 +1,55 @@
+span 
+{
+
+	background-color: red;
+	width:150px;
+	height:150px;
+	padding: 0 px;
+	margin: 10px;
+}
+
+.a1 {
+    display: inline-block;
+}
+
+.b1 {
+    display: inline-block;
+}
+
+.c1 {
+    display: inline-block;
+}
+
+
+
+.a2 {
+    float: left;
+}
+
+.b2 {
+    float: left;
+}
+
+.c2 {
+    float:left;
+}
+
+
+.a3 {
+    position: absolute;
+    top: 350;
+    left: 10;
+}
+
+.b3 {
+    position: absolute;
+    top: 350;
+    left: 180px;
+}
+
+.c3 {
+    position: absolute;
+    top: 350;
+    left: 360px;
+}
+

@@ -1,0 +1,25 @@
+.bord {
+    border: 2px dotted white;
+}
+
+.box {
+    background-color: lightgrey;
+    width: 200px;
+    padding: 10px 20px;
+    margin: 30px;
+}
+
+.fontcolor {
+    color: white;
+}
+
+.bord1 {
+    border: 20px solid grey;
+    margin: 30px;
+}
+
+.box1 {
+    background-color: grey;
+    padding: 20px;
+    margin: 30px; 
+}
